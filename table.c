@@ -14,8 +14,7 @@ int main()
 	printf("The table of %d is\n\n", num);
 	
 	
-	/*printf("")
-	printf("")*/
+
 	do{
 	     from= from+1;
 	     printf("%d*%d=%d\n", num, from,num*from);
